@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Version: v0.0.0](https://img.shields.io/badge/release-v0.0.0-519dd9.svg)
 
+## **Note**: this repository is a fork of https://github.com/vincentcheny. It's intended as a Python port of original AHK version. The rationale for rewrite is to get away with AHK's obscure and subtle syntax rules.
+
 ## Introduction
 
 This project is intended to host various AHK scripts that Mornrain writes in reply to Maple's feature requests. The aim of these scripts is to facilitate Maple's user experience on Windows OS, and hopefully boost productivity. Mornrain may benefit from this project after sharpening his AHK script writing skill and gaining massive enhancement on capability of searching for tech solutions.
